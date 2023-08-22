@@ -1,0 +1,11 @@
+ButtonControl	KEYWORD1
+fastClick	KEYWORD2
+click	KEYWORD2
+doubleClick	KEYWORD2
+longClick	KEYWORD2
+getButtonClicks	KEYWORD2
+getLongClickTime	KEYWORD2
+getMinLongClickTime	KEYWORD2
+getFastClickContinuousTime	KEYWORD2
+setMinLongClickTime	KEYWORD2
+setFastClickContinuousTime	KEYWORD2
