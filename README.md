@@ -1,5 +1,6 @@
 # ButtonControl
 Library to control push button click times.
+
 Short clicks, long clicks and double clicks. Click count and button press time.
 
 ## Usage
@@ -45,4 +46,5 @@ void setFastClickContinuousTime(int continuousTime = 200);
 
 ## Author
 Fellipe Couto [ http://www.efeitonerd.com.br ]
+
 Date : 2023-08-20
