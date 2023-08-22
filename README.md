@@ -1,5 +1,5 @@
 # ButtonControl
-Library to control push button click times.&nbsp;
+Library to control push button click times.<br>
 Short clicks, long clicks and double clicks. Click count and button press time.
 
 ## Usage
